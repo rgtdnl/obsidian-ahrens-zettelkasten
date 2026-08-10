@@ -394,3 +394,7 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+
+-----------------------------------------------------------------------
+
+Copyright (c) 2026 rgtdnl
