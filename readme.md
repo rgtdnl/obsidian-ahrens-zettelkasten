@@ -10,22 +10,22 @@ The book's premise is that the structure must stay simple so the complexity can 
 
 Ahrens lists four tools and no more: something to write with, a reference system, the slip-box, an editor. "More is unnecessary, less is impossible." (p. 47)
 
-This vault is that list translated to Obsidian, and nothing else. It is the stripped-down counterpart to vaults that layer on community systems (categories, database views, status properties). Those are powerful, but they are not in the book, and for a beginner they become infrastructure to debug instead of notes to write.
+This vault is that list translated to Obsidian, and nothing else. Where the book says nothing, the vault adds nothing; the next section spells out what that means in practice.
 
 ## What is deliberately absent
 
-- **No categories folder or base files.** No filtered database views, no embeds of live queries into notes.
+- **No database views or embeds.** No filtered tables, no live queries rendered inside notes.
 - **No frontmatter taxonomy.** No `status`, `rating`, `type`, `topics`, `categories` properties. The only frontmatter is what the method needs: a creation date, and source/author/year on literature notes.
-- **No MOCs.** The slip-box has an index, which is in the book; maps of content are a community adaptation and are not included.
+- **No maps of content.** The slip-box has an index, which is in the book; MOCs are a community adaptation and are not included.
 - **No plugins required.** Backlinks and the graph view are built into Obsidian.
 
-When to reconsider: once the slip-box holds roughly 50+ permanent notes and finding orphan notes or tracking reading progress becomes a real pain, filtered views earn their keep. At that scale, add them back in an afternoon.
+When to reconsider: if the slip-box grows past roughly 50 permanent notes and finding orphan notes or tracking reading progress becomes a real pain, filtered views are worth adding. They can be introduced at that scale without changing the vault's structure.
 
 ## Folder structure
 
 | Folder | Purpose |
 |---|---|
-| `00 inbox/` | Flat landing zone for fleeting notes, clippings, and raw literature notes. What you see is what still needs processing. Goal state: empty. |
+| `00 inbox/` | Flat landing zone for fleeting notes, clippings, and raw literature notes. Everything here is processed within 1-2 days, then removed. Goal state: empty. |
 | `10 literature/` | Literature notes: source ideas translated into your own words, each with a reference and locator. |
 | `20 slip-box/` | Permanent notes: one idea per note, full sentences, written as if for print. Plus `01 index.md`, the entry-point list. |
 | `30 projects/` | One subfolder per piece of writing: outlines, drafts, collected notes. |
@@ -55,15 +55,9 @@ Every folder starts with `00 guide.md` describing its purpose, rules, and daily 
 
 ## Getting started
 
-1. Open this folder as a vault in Obsidian (Open folder as vault).
+1. Clone the repo and open the folder as a vault in Obsidian:
+   `git clone https://github.com/rgtdnl/obsidian-ahrens-zettelkasten.git`
 2. Set the template location: Settings > Templates > Template folder location → `50 templates`.
 3. Set the date format to `YYYY-MM-DD` (the templates use `{{date:YYYY-MM-DD}}`).
 4. Read the six `00 guide.md` files, starting with `00 inbox`.
 5. Start with the `literature` and `permanent` templates; add the others when you need them.
-
-## Conventions honored
-
-- All folder and file names lowercase; numbered names have no dashes (`00 inbox`, `01 index.md`).
-- The inbox stays flat. No subfolders, ever.
-- Clippings and raw literature notes are deleted after extraction, not archived. The source is one click away.
-- Permanent notes never go to the archive. Archiving one breaks the system.
