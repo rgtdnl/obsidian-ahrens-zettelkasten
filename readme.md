@@ -2,6 +2,15 @@
 
 A deliberately minimal Obsidian vault that implements the Zettelkasten method exactly as Sönke Ahrens describes it in *How to Take Smart Notes*. No plugins, no database views, no category system, no frontmatter taxonomy. Six folders, four templates, one index. Obsidian's built-in backlinks and graph view provide everything else.
 
+## The book
+
+**Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking* (Polity Press, 2017).** The book explains why the Zettelkasten works and exactly how to run one: fleeting notes capture, literature notes translate sources into your own words, permanent notes carry one idea each, and the slip-box turns them into writing. This vault is that method translated to Obsidian, and nothing else.
+
+- Author's website: https://www.soenkeahrens.de/
+- Get the book: [ebook on Amazon](https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5) · [audiobook on Audible](https://www.audible.com/pd/How-to-Take-Smart-Notes-Audiobook/B0DXQYJ2ZS)
+
+The book is short, and reading it beats any template: the vault gives you the structure, the book gives you the why.
+
 ## Why this vault exists
 
 The book's premise is that the structure must stay simple so the complexity can build up where it belongs: on the content level.
@@ -61,3 +70,7 @@ Every folder starts with `00 guide.md` describing its purpose, rules, and daily 
 3. Set the date format to `YYYY-MM-DD` (the templates use `{{date:YYYY-MM-DD}}`).
 4. Read the six `00 guide.md` files, starting with `00 inbox`.
 5. Start with the `literature` and `permanent` templates; add the others when you need them.
+
+## Credits
+
+Method: Sönke Ahrens, *How to Take Smart Notes* (CC BY 4.0). This stock vault is the deliberate opposite of the Kepano-layered version (https://github.com/rgtdnl/obsidian-ahrens-kepano-zettelkasten-vault), which adds dashboards and categories on top of the same method.
