@@ -56,7 +56,7 @@ Every folder starts with `00 guide.md` describing its purpose, rules, and daily 
 ## Getting started
 
 1. Clone the repo and open the folder as a vault in Obsidian:
-   `git clone https://github.com/rgtdnl/obsidian-ahrens-zettelkasten.git`
+   `git clone https://github.com/rgtdnl/obsidian-ahrens-zettelkasten-stock-vault.git`
 2. Set the template location: Settings > Templates > Template folder location → `50 templates`.
 3. Set the date format to `YYYY-MM-DD` (the templates use `{{date:YYYY-MM-DD}}`).
 4. Read the six `00 guide.md` files, starting with `00 inbox`.
