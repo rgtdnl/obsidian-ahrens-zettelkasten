@@ -45,13 +45,13 @@ Every folder starts with `00 guide.md` describing its purpose, rules, and daily 
 
 ## The workflow
 
-1. **Capture** — fleeting notes land flat in `00 inbox`, nowhere else.
-2. **Read with a pen** — while reading, write literature notes in your own words with locators; store them in `10 literature`.
-3. **Turn to the slip-box** — review the inbox and your literature notes. Write permanent notes: one idea per note, full sentences, in a way your future self can understand without the original context.
-4. **File and link** — place each new note behind the note it continues, link both ways, add it to the index if it opens a new thread. Ask: "In which context will I want to stumble upon this again?" — not "Which topic does this belong to?"
-5. **Develop ideas** — topics grow bottom-up from the links. Use the index as entry points, follow threads, let contradictions surface.
-6. **Write** — when a topic is ready, assemble the relevant permanent notes into a project folder in `30 projects`, arrange them, and turn them into continuous text.
-7. **Finish** — move finished project folders to `40 archive`, or delete them. Permanent notes never leave the slip-box.
+1. **Capture** - fleeting notes land flat in `00 inbox`, nowhere else.
+2. **Read with a pen** - while reading, write literature notes in your own words with locators; store them in `10 literature`.
+3. **Turn to the slip-box** - review the inbox and your literature notes. Write permanent notes: one idea per note, full sentences, in a way your future self can understand without the original context.
+4. **File and link** - place each new note behind the note it continues, link both ways, add it to the index if it opens a new thread. Ask: "In which context will I want to stumble upon this again?" - not "Which topic does this belong to?"
+5. **Develop ideas** - topics grow bottom-up from the links. Use the index as entry points, follow threads, let contradictions surface.
+6. **Write** - when a topic is ready, assemble the relevant permanent notes into a project folder in `30 projects`, arrange them, and turn them into continuous text.
+7. **Finish** - move finished project folders to `40 archive`, or delete them. Permanent notes never leave the slip-box.
 
 ## Getting started
 
@@ -75,13 +75,13 @@ The book is short, and reading it beats any template: the vault gives you the st
 
 Podcast episodes featuring the author after the book's publication:
 
-- **Finding Genius**: "Duly Noted: Dr. Sönke Ahrens, author of How to Take Smart Notes — Finding Efficiency in Note-taking" (August 2019) — note-taking for more comprehensive learning and increased productivity. https://www.findinggeniuspodcast.com/podcasts/duly-noted-dr-sonke-ahrens-author-how-to-take-smart-notes-finding-efficiency-in-note-taking-to-achieve-more-comprehensive-learning-and-increased-productivity/
-- **Coaching for Leaders**, Episode 564: "Make Your Reading More Meaningful, with Sönke Ahrens" (January 2022) — turning reading into notes that fuel writing and thinking. https://coachingforleaders.com/podcast/make-reading-more-meaningful-sonke-ahrens/
-- **The Unmistakable Creative**: "The Knowledge Management Series: Sönke Ahrens | How to Take Smart Notes" (October 2022) — the method, the science behind it, and how to apply it. https://shows.acast.com/the-unmistakable-creative-podcast/episodes/the-knowledge-management-series-sonke-ahrens-how-to-take-sma
-- **The Informed Life**, Episode 122: "Sönke Ahrens on Smart Notes" (September 2023) — notes, thinking, and learning through the zettelkasten. https://theinformed.life/2023/09/10/episode-122-soenke-ahrens/
-- **MindHack**, Episode 094: "Sönke Ahrens - AI-Proof Your Brain: Smart Notes Strategy" (July 2025) — smart notes as the antidote to AI: keeping your ideas uniquely yours in an AI-driven world. https://podcasts.apple.com/us/podcast/094-s%C3%B6nke-ahrens-ai-proof-your-brain-smart-notes-strategy/id1374599416?i=1000717529590
-- **Wisepreneurs**: "Sönke Ahrens on Zettelkasten, Obsidian & Smart Notes" (July 2025) — the method in practice, and using Obsidian to run it. https://www.wisepreneurs.au/sonke-ahrens-experience-to-insight/
-- **Exam Study Expert**, Episode 199: "Zettelkasten 'Super' Notes: with Dr Sönke Ahrens" (September 2025) — the zettelkasten as a superpower for productivity, insights, and research. https://examstudyexpert.com/zettelkasten/
+- **Finding Genius**: "Duly Noted: Dr. Sönke Ahrens, author of How to Take Smart Notes - Finding Efficiency in Note-taking" (August 2019) - note-taking for more comprehensive learning and increased productivity. https://www.findinggeniuspodcast.com/podcasts/duly-noted-dr-sonke-ahrens-author-how-to-take-smart-notes-finding-efficiency-in-note-taking-to-achieve-more-comprehensive-learning-and-increased-productivity/
+- **Coaching for Leaders**, Episode 564: "Make Your Reading More Meaningful, with Sönke Ahrens" (January 2022) - turning reading into notes that fuel writing and thinking. https://coachingforleaders.com/podcast/make-reading-more-meaningful-sonke-ahrens/
+- **The Unmistakable Creative**: "The Knowledge Management Series: Sönke Ahrens | How to Take Smart Notes" (October 2022) - the method, the science behind it, and how to apply it. https://shows.acast.com/the-unmistakable-creative-podcast/episodes/the-knowledge-management-series-sonke-ahrens-how-to-take-sma
+- **The Informed Life**, Episode 122: "Sönke Ahrens on Smart Notes" (September 2023) - notes, thinking, and learning through the zettelkasten. https://theinformed.life/2023/09/10/episode-122-soenke-ahrens/
+- **MindHack**, Episode 094: "Sönke Ahrens - AI-Proof Your Brain: Smart Notes Strategy" (July 2025) - smart notes as the antidote to AI: keeping your ideas uniquely yours in an AI-driven world. https://podcasts.apple.com/us/podcast/094-s%C3%B6nke-ahrens-ai-proof-your-brain-smart-notes-strategy/id1374599416?i=1000717529590
+- **Wisepreneurs**: "Sönke Ahrens on Zettelkasten, Obsidian & Smart Notes" (July 2025) - the method in practice, and using Obsidian to run it. https://www.wisepreneurs.au/sonke-ahrens-experience-to-insight/
+- **Exam Study Expert**, Episode 199: "Zettelkasten 'Super' Notes: with Dr Sönke Ahrens" (September 2025) - the zettelkasten as a superpower for productivity, insights, and research. https://examstudyexpert.com/zettelkasten/
 
 ## Credits
 
